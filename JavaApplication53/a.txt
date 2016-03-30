@@ -1,1 +1,3 @@
-gfhjfj
+222
+
+function B()
